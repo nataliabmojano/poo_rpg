@@ -1,0 +1,15 @@
+C:\Users\Natália\Desktop\GFT\obj\Debug\net6.0\GFT.csproj.AssemblyReference.cache
+C:\Users\Natália\Desktop\GFT\obj\Debug\net6.0\GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natália\Desktop\GFT\obj\Debug\net6.0\GFT.AssemblyInfoInputs.cache
+C:\Users\Natália\Desktop\GFT\obj\Debug\net6.0\GFT.AssemblyInfo.cs
+C:\Users\Natália\Desktop\GFT\obj\Debug\net6.0\GFT.csproj.CoreCompileInputs.cache
+C:\Users\Natália\Desktop\GFT\bin\Debug\net6.0\GFT.exe
+C:\Users\Natália\Desktop\GFT\bin\Debug\net6.0\GFT.deps.json
+C:\Users\Natália\Desktop\GFT\bin\Debug\net6.0\GFT.runtimeconfig.json
+C:\Users\Natália\Desktop\GFT\bin\Debug\net6.0\GFT.dll
+C:\Users\Natália\Desktop\GFT\bin\Debug\net6.0\ref\GFT.dll
+C:\Users\Natália\Desktop\GFT\bin\Debug\net6.0\GFT.pdb
+C:\Users\Natália\Desktop\GFT\obj\Debug\net6.0\GFT.dll
+C:\Users\Natália\Desktop\GFT\obj\Debug\net6.0\ref\GFT.dll
+C:\Users\Natália\Desktop\GFT\obj\Debug\net6.0\GFT.pdb
+C:\Users\Natália\Desktop\GFT\obj\Debug\net6.0\GFT.genruntimeconfig.cache
